@@ -5,7 +5,7 @@
   </head>
 
   <body>
-    <h1>extension Enhancer for YouTube</h1>
+    <h1>Extension Enhancer for YouTube</h1>
     <p>script for the Enhancer for YouTube extension (full screen)</p>
     <ol>
       <li>Install the <a href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Enhancer for YouTube</a></li>
