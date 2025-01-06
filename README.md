@@ -25,6 +25,5 @@
     </ol>
   </body>
 </body>
-Next we find “Custom script”
-<!--Paste the code from "fullScreen.js"-->
+<!--Paste the code from "fullScreen.js" Next we find “Custom script”-->
 
