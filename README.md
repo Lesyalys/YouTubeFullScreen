@@ -12,7 +12,7 @@
       <li>In the extension settings, find "Controls"<br>
         <div>
           <img src="https://github.com/user-attachments/assets/f4e991f9-579b-4dca-83b2-4417f29f09fc" width = 200 height = 400>
-          <img src="https://github.com/user-attachments/assets/e744a469-196b-4086-9e44-0668f0b4ab6e" width = 700 height = 200>
+          <img src="https://github.com/user-attachments/assets/e744a469-196b-4086-9e44-0668f0b4ab6e" width = 700 height = 400>
         </div>
       </li>
       <li>Paste the code from "fullScreen.js"<br><img src="https://github.com/user-attachments/assets/5bad44ce-0bae-4ece-82ae-b544c5e09d44" width = 600 height = 300></li>
