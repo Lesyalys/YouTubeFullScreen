@@ -15,7 +15,7 @@
           <img src="https://github.com/user-attachments/assets/e744a469-196b-4086-9e44-0668f0b4ab6e" width = 700 height = 200>
         </div>
       </li>
-      <li>Next we find “Custom script”<br>
+      <li>Next, find “User Script” and paste the code from “fullScreen.js”<br>
       <div>
           <img src="https://github.com/user-attachments/assets/707849c8-7168-4680-bbec-3a3dabf317a6" width = 200 height = 400>
           <img src="https://github.com/user-attachments/assets/3305439a-4a6b-4bae-89c4-68c719c9d799" width = 700 height = 300>
