@@ -21,7 +21,7 @@
           <img src="https://github.com/user-attachments/assets/3305439a-4a6b-4bae-89c4-68c719c9d799" width = 730 height = 350>
         </div>
       </li>
-      <li>Now, when watching a video, you can activate the script and stretch the video to fit your screen resolution! (The image may be slightly distorted at the momen)<br>Ta-dam! Enjoy watching!<br><img src="https://github.com/user-attachments/assets/b108241e-9109-45a7-92c9-0b4c0f51af3d" width = 900 height = 150 align="center"></li>
+      <li>Now, when watching a video, you can activate the script and stretch the video to fit your screen resolution! (The image may be slightly distorted at the momen)<br>Ta-dam! Enjoy watching!<br><img src="https://github.com/user-attachments/assets/b108241e-9109-45a7-92c9-0b4c0f51af3d" width = 800 height = 150></li>
     </ol>
   </body>
 </body>
