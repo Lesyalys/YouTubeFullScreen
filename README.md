@@ -6,7 +6,7 @@
 
   <body>
     <h1>Full screen mode (for YouTube)</h1>
-    <p>script for the Enhancer for YouTube extension (full screen)</p>
+    <p>Script for absolutely full, widescreen mode for YouTube</p>
     <ol>
       <li>Install the <a href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Enhancer for YouTube</a></li>
       <li>In the extension settings, find "Custom script"</li>
