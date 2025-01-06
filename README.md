@@ -5,7 +5,7 @@
   </head>
 
   <body>
-    <h1 align="center">Full screen mode (for YouTube)<img height="50px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/clown-face-telegram.gif" alt="🤡 Лицо клоуна"></h1>
+    <h1 align="center">Full screen mode (for YouTube)<img height="40px" decoding="async" loading="lazy" src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/clown-face-telegram.gif" alt="🤡 Лицо клоуна"></h1>
     <p align="center">Script for absolutely full, widescreen mode for YouTube</p>
     <ol>
       <li>Install the <a href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Enhancer for YouTube</a></li>
