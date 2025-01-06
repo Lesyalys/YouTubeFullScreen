@@ -5,7 +5,7 @@
   </head>
 
   <body>
-    <h1>Full screen mode (for YouTube)</h1>
+    <h1 align="center">Full screen mode (for YouTube)</h1>
     <p>Script for absolutely full, widescreen mode for YouTube</p>
     <ol>
       <li>Install the <a href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Enhancer for YouTube</a></li>
