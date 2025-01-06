@@ -15,8 +15,10 @@
           <img src="https://github.com/user-attachments/assets/e744a469-196b-4086-9e44-0668f0b4ab6e" width = 700 height = 200>
         </div>
       </li>
-      <li>Paste the code from "fullScreen.js"<br><img src="https://github.com/user-attachments/assets/5bad44ce-0bae-4ece-82ae-b544c5e09d44" width = 600 height = 300></li>
+      <li>Next we find “Custom script”<br><img src="https://github.com/user-attachments/assets/5bad44ce-0bae-4ece-82ae-b544c5e09d44" width = 600 height = 300></li>
       <li>Ta-dam! Enjoy watching!</li>
     </ol>
   </body>
 </body>
+Next we find “Custom script”
+<!--Paste the code from "fullScreen.js"-->
