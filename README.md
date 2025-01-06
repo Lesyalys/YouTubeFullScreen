@@ -12,7 +12,7 @@
       <li>In the extension settings, find "Controls"<br>I recommend setting "Place controls in video player" for ease of script activation<br>
         <div>
           <img src="https://github.com/user-attachments/assets/f4e991f9-579b-4dca-83b2-4417f29f09fc" width = 200 height = 400>
-          <img src="https://github.com/user-attachments/assets/e744a469-196b-4086-9e44-0668f0b4ab6e" width = 700 height = 200>
+          <img src="https://github.com/user-attachments/assets/e744a469-196b-4086-9e44-0668f0b4ab6e" width = 700 height = 250>
         </div>
       </li>
       <li>Next, find “User Script” and paste the code from <a href="https://github.com/Lesyalys/YouTubeFullScreen/blob/main/fullScreen.js">“fullScreen.js”</a><br>Don't forget to save ;)<br>
