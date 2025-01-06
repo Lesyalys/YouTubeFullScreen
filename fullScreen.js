@@ -1,3 +1,4 @@
+//BETA
 (function() {
     const videoElement = document.querySelector('.video-stream.html5-main-video');
     if (videoElement) {
