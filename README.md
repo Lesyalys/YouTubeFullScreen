@@ -9,7 +9,7 @@
     <p align="center">Script for absolutely full, widescreen mode for YouTube</p>
     <ol>
       <li>Install the <a href="https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle">Enhancer for YouTube</a></li>
-      <li>In the extension settings, find "Controls"<br>I recommend Place the controls in the video player<br>
+      <li>In the extension settings, find "Controls"<br>I recommend setting "Place controls in video player" for ease of script activation<br>
         <div>
           <img src="https://github.com/user-attachments/assets/f4e991f9-579b-4dca-83b2-4417f29f09fc" width = 200 height = 400>
           <img src="https://github.com/user-attachments/assets/e744a469-196b-4086-9e44-0668f0b4ab6e" width = 700 height = 200>
