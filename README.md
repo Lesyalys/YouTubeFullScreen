@@ -23,7 +23,8 @@
       </li>
       <li>Now, when watching a video, you can activate the script and stretch the video to fit your screen resolution! (The image may be slightly distorted at the momen)<br>Ta-dam! Enjoy watching!<br><img src="https://github.com/user-attachments/assets/b108241e-9109-45a7-92c9-0b4c0f51af3d" width = 800px height = 150px></li>
     </ol>
-    <h1>This is one of my first works in this direction, so forgive me</h1>
+    <br>
+    <h1 align="center">This is one of my first works in this direction, so forgive me</h1>
   </body>
 </body>
 <!--Paste the code from "fullScreen.js" Next we find “Custom script”-->
